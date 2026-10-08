@@ -1,0 +1,14 @@
+{
+  "name": "@hotel/login",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "login 登录模块",
+  "main": "./src/main/ets/index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@hotel/utils": "file:../../commons/utils",
+    "@hotel/datastore": "file:../../commons/datastore",
+    "@hotel/network": "file:../../commons/network"
+  }
+}

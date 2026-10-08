@@ -1,0 +1,7 @@
+{
+  "name": "@hotel/datastore",
+  "version": "1.0.0",
+  "description": "Data store module for hotel app",
+  "main": "./src/main/ets/index.ets",
+  "dependencies": {}
+}

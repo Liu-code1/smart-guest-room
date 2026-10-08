@@ -1,0 +1,7 @@
+{
+  "name": "@hotel/utils",
+  "version": "1.0.0",
+  "description": "Utils module for hotel app",
+  "main": "./src/main/ets/index.ets",
+  "dependencies": {}
+}

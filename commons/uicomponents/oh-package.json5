@@ -1,0 +1,7 @@
+{
+  "name": "@hotel/uicomponents",
+  "version": "1.0.0",
+  "description": "UI components module",
+  "main": "./src/main/ets/Index.ets",
+  "dependencies": {}
+}

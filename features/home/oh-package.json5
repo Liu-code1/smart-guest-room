@@ -1,0 +1,15 @@
+{
+  "name": "@hotel/home",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "home 首页模块",
+  "main": "./src/main/ets/index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@hotel/light": "file:../light",
+    "@hotel/service": "file:../service",
+    "@hotel/utils": "file:../../commons/utils",
+    "@hotel/datastore": "file:../../commons/datastore"
+  }
+}

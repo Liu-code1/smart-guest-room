@@ -1,0 +1,38 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git config *)",
+      "Bash(E:/UniversityAPP/Git/Git/bin/git.exe add *)",
+      "Bash(E:/UniversityAPP/Git/Git/bin/git.exe commit *)",
+      "Bash(E:/UniversityAPP/Git/Git/bin/git.exe status *)",
+      "Bash(E:/UniversityAPP/Git/Git/bin/git.exe diff *)",
+      "Bash(E:/UniversityAPP/Git/Git/bin/git.exe log *)",
+      "WebSearch",
+      "Bash(\"E:/UniversityAPP/Git/Git/usr/bin/mkdir\" -p \"E:/UniversityAPP/claudeProjects/GuangkeFutureHotel/features/home/src/main/resources/base/media\")",
+      "Bash(E:/UniversityAPP/Git/Git/usr/bin/mkdir -p E:/UniversityAPP/claudeProjects/GuangkeFutureHotel/features/__TRACKED_VAR__/src/main/resources/base/media)",
+      "Bash(E:/UniversityAPP/Git/Git/usr/bin/cp E:/UniversityAPP/claudeProjects/GuangkeFutureHotel/products/phone/src/main/resources/base/media/home_* E:/UniversityAPP/claudeProjects/GuangkeFutureHotel/products/phone/src/main/resources/base/media/service_icon_* E:/UniversityAPP/claudeProjects/GuangkeFutureHotel/products/phone/src/main/resources/base/media/home_layer_* E:/UniversityAPP/claudeProjects/GuangkeFutureHotel/features/home/src/main/resources/base/media/)",
+      "Bash(E:/UniversityAPP/Git/Git/usr/bin/cp E:/UniversityAPP/claudeProjects/GuangkeFutureHotel/products/phone/src/main/resources/base/media/light_* E:/UniversityAPP/claudeProjects/GuangkeFutureHotel/features/light/src/main/resources/base/media/)",
+      "Bash(E:/UniversityAPP/Git/Git/usr/bin/cp E:/UniversityAPP/claudeProjects/GuangkeFutureHotel/products/phone/src/main/resources/base/media/curtain_* E:/UniversityAPP/claudeProjects/GuangkeFutureHotel/products/phone/src/main/resources/base/media/light_icon_back.png E:/UniversityAPP/claudeProjects/GuangkeFutureHotel/features/curtain/src/main/resources/base/media/)",
+      "Bash(E:/UniversityAPP/Git/Git/usr/bin/cp E:/UniversityAPP/claudeProjects/GuangkeFutureHotel/products/phone/src/main/resources/base/media/service_* E:/UniversityAPP/claudeProjects/GuangkeFutureHotel/products/phone/src/main/resources/base/media/home_layer_scenemode.png E:/UniversityAPP/claudeProjects/GuangkeFutureHotel/products/phone/src/main/resources/base/media/light_toggle_* E:/UniversityAPP/claudeProjects/GuangkeFutureHotel/features/service/src/main/resources/base/media/)",
+      "Bash(E:/UniversityAPP/Git/Git/usr/bin/cp E:/UniversityAPP/claudeProjects/GuangkeFutureHotel/products/phone/src/main/resources/base/media/bg_hotel_full.jpg E:/UniversityAPP/claudeProjects/GuangkeFutureHotel/products/phone/src/main/resources/base/media/light_icon_back.png E:/UniversityAPP/claudeProjects/GuangkeFutureHotel/products/phone/src/main/resources/base/media/icon_input_* E:/UniversityAPP/claudeProjects/GuangkeFutureHotel/features/login/src/main/resources/base/media/)",
+      "Bash(cmd *)",
+      "Bash(ls /bin/rm*)",
+      "Read(//usr/**)",
+      "Bash(node -e \"require\\('fs'\\).unlinkSync\\('E:/UniversityAPP/claudeProjects/GuangkeFutureHotel/products/phone/src/main/ets/pages/HomePage.ets'\\)\")",
+      "Bash(git rm *)",
+      "Bash(node.exe *)",
+      "Bash(E:/UniversityAPP/nodejs/node.exe *)",
+      "Bash(E:/UniversityAPP/DevEcoStudio/tools/hvigor/bin/hvigorw.js assembleHap *)",
+      "Bash(export DEVECO_SDK_HOME=\"E:/DevEco Studio/sdk/default\")",
+      "Bash(export DEVECO_SDK_HOME_V2=\"E:/DevEco Studio/sdk/default\")",
+      "Bash(export DEVECO_SDK_HOME=\"E:/DevEco Studio/sdk\")",
+      "Bash(pip3 list *)",
+      "Bash(pip list *)",
+      "Bash(python -c \"import pptx; print\\('python-pptx available:', pptx.__version__\\)\")",
+      "Bash(python create_ppt.py)",
+      "Bash(PYTHONIOENCODING=utf-8 python create_ppt.py)"
+    ]
+  }
+}

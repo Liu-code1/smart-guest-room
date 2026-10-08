@@ -1,0 +1,7 @@
+{
+  "name": "@hotel/network",
+  "version": "1.0.0",
+  "description": "Network module for hotel app",
+  "main": "./src/main/ets/index.ets",
+  "dependencies": {}
+}

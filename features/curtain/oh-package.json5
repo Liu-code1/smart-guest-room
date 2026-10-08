@@ -1,0 +1,13 @@
+{
+  "name": "@hotel/curtain",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "curtain 窗帘模块",
+  "main": "./src/main/ets/index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@hotel/utils": "file:../../commons/utils",
+    "@hotel/datastore": "file:../../commons/datastore"
+  }
+}

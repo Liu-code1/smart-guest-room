@@ -1,0 +1,29 @@
+{
+  "modulePathMap": {
+    "common": "E:\\UniversityAPP\\claudeProjects\\GuangkeFutureHotel\\common",
+    "home": "E:\\UniversityAPP\\claudeProjects\\GuangkeFutureHotel\\features\\home",
+    "service": "E:\\UniversityAPP\\claudeProjects\\GuangkeFutureHotel\\features\\service",
+    "light": "E:\\UniversityAPP\\claudeProjects\\GuangkeFutureHotel\\features\\light",
+    "curtain": "E:\\UniversityAPP\\claudeProjects\\GuangkeFutureHotel\\features\\curtain",
+    "login": "E:\\UniversityAPP\\claudeProjects\\GuangkeFutureHotel\\features\\login",
+    "phone": "E:\\UniversityAPP\\claudeProjects\\GuangkeFutureHotel\\products\\phone"
+  },
+  "compileMode": "esmodule",
+  "projectRootPath": "E:\\UniversityAPP\\claudeProjects\\GuangkeFutureHotel",
+  "nodeModulesPath": "E:\\UniversityAPP\\claudeProjects\\GuangkeFutureHotel\\products\\phone\\.preview\\default\\intermediates\\loader_out\\default\\node_modules",
+  "byteCodeHarInfo": {},
+  "declarationEntry": [],
+  "moduleName": "phone",
+  "hspNameOhmMap": {},
+  "harNameOhmMap": {},
+  "packageManagerType": "ohpm",
+  "compileEntry": [],
+  "otherCompileFiles": [],
+  "dynamicImportLibInfo": {},
+  "routerMap": [],
+  "hspResourcesMap": {},
+  "updateVersionInfo": {},
+  "anBuildOutPut": "E:\\UniversityAPP\\claudeProjects\\GuangkeFutureHotel\\products\\phone\\.preview\\default\\intermediates\\loader_out\\default\\an\\arm64-v8a",
+  "anBuildMode": "type",
+  "buildConfigPath": ".preview\\config\\buildConfig.json"
+}
